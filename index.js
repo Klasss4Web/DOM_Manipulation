@@ -15,5 +15,5 @@ listItems.style.fontSize = '18px';
 
 const btn = document.querySelector('.btn');
 
-//Change the valeue of the button with class name of btn
+//Change the color of the button with class name of btn
 btn.style.backgroundColor = 'blue';
